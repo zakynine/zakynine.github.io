@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Zaky's Blog
 
-You can use the [editor on GitHub](https://github.com/zakynine/zakynine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Writer Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Physics graduate with work experience as a network engineer and IT support for approximately 2 years. I have good English, logic and analysis skills. I am able to learn quickly to new things, self-taught, and able to work alone or in a team.
+
+Here I'll show you my projects that i have done.
 
 ### Markdown
 
