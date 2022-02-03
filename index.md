@@ -2,11 +2,11 @@
 
 ## Writer Profile
 
+![Image description](img/image.png)
+
 I am a Physics graduate with work experience as a network engineer and IT support for approximately 2 years. I have good English, logic and analysis skills. I am able to learn quickly to new things, self-taught, and able to work alone or in a team.
 
 Here I'll show you my projects that i have done.
-
-![Photo Profile](/zakynine.github.io/docs/assets/img/pas-foto-3x4.png)
 
 
 ### Markdown
