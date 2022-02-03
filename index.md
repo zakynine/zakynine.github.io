@@ -6,6 +6,9 @@ I am a Physics graduate with work experience as a network engineer and IT suppor
 
 Here I'll show you my projects that i have done.
 
+![Book logo](/least-github-pages/assets/pas-foto-34.jpg)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
